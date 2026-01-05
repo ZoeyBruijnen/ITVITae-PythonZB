@@ -8,3 +8,7 @@ repository voor python lessen
 
 # Who came first??
 who knows...
+
+# Did you know also???
+1. Cows are good.
+2. Cows were made by god to make more cows.
